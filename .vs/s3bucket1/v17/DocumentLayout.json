@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\views\\imageupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\views\\imageupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|d:\\document\\academic\\y3\\s2\\cloud\\s3bucket1\\s3bucket1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49957B4-662C-4AFE-969F-C95594DB837D}|s3bucket1\\s3bucket1.csproj|solutionrelative:s3bucket1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1629,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "s3bucket1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:40:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "s3bucket1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-23T02:13:47.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "s3bucket1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:13:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "s3bucket1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:13:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\ImageUpload\\Index.cshtml",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\ImageUpload\\Index.cshtml",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\ImageUpload\\Index.cshtml",
+              "RelativeToolTip": "s3bucket1\\Views\\ImageUpload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T01:44:57.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "s3bucket1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "s3bucket1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T02:13:48.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageUploadController.cs",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Controllers\\ImageUploadController.cs",
+              "RelativeDocumentMoniker": "s3bucket1\\Controllers\\ImageUploadController.cs",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Controllers\\ImageUploadController.cs",
+              "RelativeToolTip": "s3bucket1\\Controllers\\ImageUploadController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:41:07.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\appsettings.json",
+              "RelativeDocumentMoniker": "s3bucket1\\appsettings.json",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\appsettings.json",
+              "RelativeToolTip": "s3bucket1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T01:36:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "s3bucket1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\document\\academic\\Y3\\S2\\cloud\\s3bucket1\\s3bucket1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "s3bucket1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:41:52.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
